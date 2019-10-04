@@ -114,21 +114,6 @@ namespace ProductInfo.Controllers
             }
         }
 
-        //[HttpDelete]
-        //public ActionResult Delete([FromQuery] int id)
-        //{
-        //    var product = ProductServices.GetById(id);
-
-        //    if (product == null)
-        //    {
-        //        return NotFound();
-        //    }
-
-        //    ProductServices.Update(product);
-
-        //    return NoContent();
-        //}
-
-
+       
     }
 }
